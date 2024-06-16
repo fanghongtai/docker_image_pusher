@@ -1,1 +1,1 @@
-python:3.10-slim-bookworm
+langgenius/dify-sandbox:0.2.1
